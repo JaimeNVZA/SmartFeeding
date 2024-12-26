@@ -38,7 +38,7 @@ def leer_pesos_y_calcular_promedio(puerto, baud_rate, tiempo_lectura):
             print("Conexión cerrada.")
 
 # Configuración
-puerto = "COM3"  # Cambia esto según el puerto serie que uses
+puerto = "COM3" 
 baud_rate = 9600
 tiempo_lectura = 10  # Segundos que durará la lectura
 
